@@ -1,0 +1,11 @@
+name: VanishExample
+main: org.golde.bukkit.vanish.Main
+version: 1.0
+author: Eric Golde
+description: Vanish example plugin
+website: http://eric.golde.org/
+commands:
+   vanish:
+      description: vanishes
+      usage: /vanish 
+      aliases: [v]
